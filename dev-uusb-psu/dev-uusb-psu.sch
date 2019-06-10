@@ -4,10 +4,10 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "UUSBPSU"
+Title "DEV-UUSB-PSU"
 Date ""
 Rev "1"
-Comp "QBoards"
+Comp "QBoards - qboards.github.io"
 Comment1 "Small 3.3V/5V breaboard power supply with microUSB connector"
 Comment2 ""
 Comment3 ""

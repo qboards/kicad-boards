@@ -11,7 +11,7 @@
 
   (page A4)
   (title_block
-    (title UUSBPSU)
+    (title DEV-UUSB-PSU)
     (rev 1)
     (company "QBoards - qboards.github.io")
     (comment 1 "Small 3.3V/5V breaboard power supply with microUSB connector")
@@ -352,7 +352,7 @@
     (fp_text value Conn_01x02_Male (at 0 4.87 90) (layer B.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
-    (fp_text user %R (at 0.04 1.29) (layer B.Fab)
+    (fp_text user %R (at 0.04 1.29) (layer B.Fab) hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
     )
     (fp_line (start 1.016 -1.016) (end -1.016 -1.016) (layer F.CrtYd) (width 0.05))
