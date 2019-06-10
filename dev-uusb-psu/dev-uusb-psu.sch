@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:dev-uusbpsu-cache
 EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
@@ -378,7 +377,7 @@ U 1 1 5CFBEE3B
 P 6700 5000
 F 0 "J1" H 6808 5281 50  0000 C CNN
 F 1 "Conn_01x03_Male" H 6808 5190 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 6700 5000 50  0001 C CNN
+F 2 "qboards_connectors:PinHeader_1x03_P2.54mm_Vertical" H 6700 5000 50  0001 C CNN
 F 3 "~" H 6700 5000 50  0001 C CNN
 	1    6700 5000
 	1    0    0    -1  
@@ -389,7 +388,7 @@ U 1 1 5CFBF7B2
 P 7800 5000
 F 0 "J2" H 7772 5024 50  0000 R CNN
 F 1 "Conn_01x03_Male" H 7772 4933 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical" H 7800 5000 50  0001 C CNN
+F 2 "qboards_connectors:PinHeader_1x03_P2.54mm_Vertical" H 7800 5000 50  0001 C CNN
 F 3 "~" H 7800 5000 50  0001 C CNN
 	1    7800 5000
 	-1   0    0    -1  
@@ -454,7 +453,7 @@ U 1 1 5CFC41A7
 P 4600 3050
 F 0 "TP_CURRENT1" V 4662 3094 50  0000 L CNN
 F 1 "Conn_01x02_Male" V 4753 3094 50  0000 L CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 4600 3050 50  0001 C CNN
+F 2 "qboards_connectors:PinHeader_1x02_P2.54mm_Vertical" H 4600 3050 50  0001 C CNN
 F 3 "~" H 4600 3050 50  0001 C CNN
 	1    4600 3050
 	0    1    1    0   
