@@ -1,7 +1,11 @@
 # QBoard BB-SOIC-SSOP-16
 
 Breakout board for SOIC/SSOP IC packages up to 16 pins. Uses extra long and wide pads so
-a lot of different packages should fit.
+a lot of different packages should fit. To use, just solder your IC on the SOIC or the
+SSOP side (only ever use one IC, as the header pins are shared) and you can breadboard
+your IC.
+
+![Board render](output/render.png)
 
 Package properties:
 
@@ -20,13 +24,8 @@ Package properties:
 
 # About QBoards
 
-QBoard is a project to create a collection of small tools that facilitate Electronic 
-Engineering, using readily available parts. For PCBs we aim to create well designed 
-boards that can be purchased by low cost vendors such as <a href="https://www.seeedstudio.com">
-Seeed Studio</a>, <a href="https://oshpark.com/">OSHPark</a> or <a href="https://dirtypcbs.com">DirtyPCBs</a>.
+See [here](https://github.com/qboards/kicad-boards#about-qboards)
 
 # Licensing
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
-
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+See [here](https://github.com/qboards/kicad-boards#licensing)
