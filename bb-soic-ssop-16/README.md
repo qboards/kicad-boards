@@ -1,7 +1,7 @@
 # QBoard BB-SOIC-SSOP-16
 
-Breakout board for SOIC/SSOP packages up to 16 pins. Uses extra long and wide pads so
-a lot of different packages should fit
+Breakout board for SOIC/SSOP IC packages up to 16 pins. Uses extra long and wide pads so
+a lot of different packages should fit.
 
 Package properties:
 
@@ -16,7 +16,7 @@ Package properties:
 # Downloads
 
 * [Gerbers](output/gerbers.zip)
-* <a href="releases/latest/schematic.pdf">Schematic</a>
+* [Schematic](output/schematic.pdf)
 
 # About QBoards
 
