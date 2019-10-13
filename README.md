@@ -2,6 +2,10 @@
 
 All development boards made in Kicad
 
+## Breakout boards
+
+* [BB-SOIC-SSOP-16](bb-soic-ssop-16) - Breakout board for SOIC/SSOP ICs up to 16 pins
+
 # About QBoards
 
 QBoard is a project to create a collection of small tools that facilitate Electronic 
