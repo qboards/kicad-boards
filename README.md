@@ -9,7 +9,7 @@ All development boards made in Kicad
 
 ## Development tools
 
-* [DEV_UUSBPSU](dev-uusb-psu) - Small 3.3V/5V breaboard power supply with microUSB connector
+* [DEV_UUSBPSU](dev-uusb-psu) - Small 3.3V/5V breadboard power supply with microUSB connector
 
 # About QBoards
 
