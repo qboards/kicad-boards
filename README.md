@@ -4,12 +4,13 @@ All development boards made in Kicad
 
 ## Breakout boards
 
+* [BB-SOIC-SSOP-8](bb-soic-ssop-8) - Breakout board for SOIC/SSOP ICs up to 8 pins
 * [BB-SOIC-SSOP-16](bb-soic-ssop-16) - Breakout board for SOIC/SSOP ICs up to 16 pins
 * [BB-Led](bb-led) - Single SMD (0805) breakout board
 
 ## Development tools
 
-* [DEV_UUSBPSU](dev-uusb-psu) - Small 3.3V/5V breadboard power supply with microUSB connector
+* [DEV-UUSBPSU](dev-uusb-psu) - Small 3.3V/5V breadboard power supply with microUSB connector
 
 # About QBoards
 
