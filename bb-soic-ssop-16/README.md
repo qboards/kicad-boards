@@ -15,9 +15,8 @@ Package properties:
 
 # Downloads
 
-* <a href="releases/latest/gerbers.zip">Gerbers</a>
+* <a href="output/gerbers.zip">Gerbers</a>
 * <a href="releases/latest/schematic.pdf">Schematic</a>
-* <a href="releases/latest/bom.csv">Bill of Materials</a>
 
 # About QBoards
 
