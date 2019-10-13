@@ -70,7 +70,7 @@
     (visible_elements 7FFFFFFF)
     (pcbplotparams
       (layerselection 0x010fc_ffffffff)
-      (usegerberextensions false)
+      (usegerberextensions true)
       (usegerberattributes false)
       (usegerberadvancedattributes false)
       (creategerberjobfile false)
@@ -92,9 +92,9 @@
       (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
-      (outputdirectory ""))
+      (outputdirectory "output/"))
   )
 
   (net 0 "")
@@ -210,7 +210,7 @@
     (descr "Through hole straight pin header, 1x07, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x07 2.54mm single row")
     (path /5DA3F138)
-    (fp_text reference J2 (at -0.0508 -1.8288) (layer F.SilkS)
+    (fp_text reference J2 (at -0.0508 -1.8288) (layer F.SilkS) hide
       (effects (font (size 0.6 0.6) (thickness 0.1)))
     )
     (fp_text value Conn_01x04_Male (at -0.1524 10.0584) (layer B.Fab)
@@ -272,7 +272,7 @@
     (descr "Through hole straight pin header, 1x07, 2.54mm pitch, single row")
     (tags "Through hole pin header THT 1x07 2.54mm single row")
     (path /5DA3E625)
-    (fp_text reference J1 (at -0.0508 -1.8288) (layer F.SilkS)
+    (fp_text reference J1 (at -0.0508 -1.8288) (layer F.SilkS) hide
       (effects (font (size 0.6 0.6) (thickness 0.1)))
     )
     (fp_text value Conn_01x04_Male (at -0.1524 10.0584) (layer B.Fab)
