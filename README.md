@@ -7,6 +7,7 @@ All development boards made in Kicad
 * [BB-SOIC-SSOP-8](bb-soic-ssop-8) - Breakout board for SOIC/SSOP ICs up to 8 pins
 * [BB-SOIC-SSOP-16](bb-soic-ssop-16) - Breakout board for SOIC/SSOP ICs up to 16 pins
 * [BB-SOIC-SSOP-24](bb-soic-ssop-24) - Breakout board for SOIC/SSOP ICs up to 24 pins
+* [BB-TQFP/QFN](bb-tqfp-qfn-32) - Breakout board for TQFP/QFN ICs with 32 pins
 * [BB-Led](bb-led) - Single SMD (0805) breakout board
 
 ## Development tools
