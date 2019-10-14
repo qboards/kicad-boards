@@ -8,8 +8,8 @@ and you can breadboard your IC.
 
 Package properties:
 
-TQFP: 32pin 7x7mm, 0.8mm pin spacing
-QFN: 32pin 5x5mm, 0.5mm pin spacing
+* TQFP: 32pin 7x7mm, 0.8mm pin spacing
+* QFN: 32pin 5x5mm, 0.5mm pin spacing
 
 # Downloads
 
