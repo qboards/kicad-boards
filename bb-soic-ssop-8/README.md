@@ -22,6 +22,10 @@ Package properties:
 * [Gerbers](output/gerbers.zip)
 * [Schematic](output/schematic.pdf)
 
+# Buy
+
+* [Buy protopack (10) from DirtyPcbs](http://dirtypcbs.com/store/designer/details/qboards/6373/qboard-bb-soic-ssop-8)
+
 # About QBoards
 
 See [here](https://github.com/qboards/kicad-boards#about-qboards)
