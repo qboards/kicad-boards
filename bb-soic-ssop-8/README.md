@@ -24,7 +24,7 @@ Package properties:
 
 # Buy
 
-* [Buy protopack (10) from DirtyPcbs](http://dirtypcbs.com/store/designer/details/qboards/6373/qboard-bb-soic-ssop-8)
+* [Buy protopack (10) from DirtyPcbs](https://dirtypcbs.com/store/designer/details/qboards/6373/qboard-bb-soic-ssop-8)
 
 # About QBoards
 

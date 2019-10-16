@@ -18,7 +18,7 @@ Package properties:
 
 # Buy
 
-* [Buy protopack (10) from DirtyPcbs](http://dirtypcbs.com/store/designer/details/qboards/6377/qboard-bb-tqfp-qfn)
+* [Buy protopack (10) from DirtyPcbs](https://dirtypcbs.com/store/designer/details/qboards/6377/qboard-bb-tqfp-qfn)
 
 # About QBoards
 

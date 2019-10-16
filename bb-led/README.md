@@ -11,7 +11,7 @@ Single SMD (0805) breakout board that fits between the bus and the main grid of 
 
 # Buy
 
-* [Buy protopack (10) from DirtyPcbs](http://dirtypcbs.com/store/designer/details/qboards/6375/qboard-bb-led)
+* [Buy protopack (10) from DirtyPcbs](https://dirtypcbs.com/store/designer/details/qboards/6375/qboard-bb-led)
 
 # About QBoards
 
