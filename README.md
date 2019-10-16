@@ -4,10 +4,11 @@ All development boards made in Kicad
 
 ## Breakout boards
 
+* [BB-Led](bb-led) - Single SMD (0805) breakout board
 * [BB-SOIC-SSOP-8](bb-soic-ssop-8) - Breakout board for SOIC/SSOP ICs up to 8 pins
 * [BB-SOIC-SSOP-16](bb-soic-ssop-16) - Breakout board for SOIC/SSOP ICs up to 16 pins
 * [BB-SOIC-SSOP-24](bb-soic-ssop-24) - Breakout board for SOIC/SSOP ICs up to 24 pins
-* [BB-Led](bb-led) - Single SMD (0805) breakout board
+* [BB-SOT89-SOT223](bb-sot89-sot223) - Breakout board for SOT-89 / SOT-223 smd transitor packages
 
 ## Development tools
 
