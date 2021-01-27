@@ -12,7 +12,7 @@ pull-down resistor
 
 # Buy
 
-* [Buy protopack (10) from DirtyPcbs](https://dirtypcbs.com/store/designer/details/qboards/6508/qboard-bb-buttonbar)
+* [Buy protopack (10) from DirtyPcbs](https://dirtypcbs.com/store/designer/details/qboards/6509/qboard-bb-button-bar)
 
 # About QBoards
 
