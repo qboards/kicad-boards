@@ -11,7 +11,7 @@ Array of eight SMD leds (0805) on a breakout board that fits between the bus and
 
 # Buy
 
-* [Buy protopack (10) from DirtyPcbs](https://dirtypcbs.com/store/designer/details/qboards/6375/qboard-bb-led)
+* [Buy protopack (10) from DirtyPcbs](https://dirtypcbs.com/store/designer/details/qboards/6508/qboard-bb-led)
 
 # About QBoards
 
