@@ -1,4 +1,4 @@
-update=27-01-21 15:24:42
+update=27-01-21 15:26:25
 version=1
 last_client=kicad
 [general]
@@ -240,7 +240,7 @@ dPairViaGap=0.25
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
-PlotDirectoryName=
+PlotDirectoryName=C:/Users/Wilco/Projects/qboards/kicad-boards/bb-ledbar/output/
 SubpartIdSeparator=0
 SubpartFirstId=65
 NetFmtName=Pcbnew
