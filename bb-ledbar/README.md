@@ -1,6 +1,6 @@
 # QBoard BB-LedBar
 
-Array of SMD leds (0805) breakout board that fits between the bus and the main grid of a breadboard
+Array of eight SMD leds (0805) on a breakout board that fits between the bus and the main grid of a breadboard. One side is common cathode, other side common anode.
 
 ![Board render](output/render.png)
 
