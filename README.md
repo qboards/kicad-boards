@@ -13,6 +13,7 @@ All development boards made in Kicad
 * [BB-SOT89-SOT223](bb-sot89-sot223) - Breakout board for SOT-89 / SOT-223 smd transitor packages
 * [BB-TQFP-QFN](bb-tqfp-qfn-32) - Breakout board for TQFP/QFN ICs with 32 pins
 * [BB-XTAL](bb-xtal) - Breakout board for Crystal and its capacitors
+* [BB-AVRISP](bb-avrisp) - Breakout for 10- and 6-pin AVR ISP connectors
 
 ## Development tools
 
